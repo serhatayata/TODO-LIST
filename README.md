@@ -1,1 +1,1 @@
-# TODO-LIST
+I have created this project by using HTML,CSS,Javascript and JQuery. I used DOM manipulation methods and more... There are 2 different projects. One of them gets and sends them online to a website database which was created by using Wordpress. And the other one uses local storage to keep data. 
